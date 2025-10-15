@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = () => {
   return (
     <>
-      <div className=" md:hidden sticky  top-0 flex justify-between items-center  bg-indigo-200 border border-indigo-700 backdrop-blur-md px-4 p-2 text-indigo-700 ">
+      <div className=" md:hidden sticky z-50  top-0 flex justify-between items-center  bg-indigo-200 border border-indigo-700 backdrop-blur-md px-4 p-2 text-indigo-700 ">
         <div className=" uppercase  ">St. Mary's Assumption Church</div>
         <div>
           <a href="#how-to-reach">
@@ -16,7 +16,7 @@ const Navbar = () => {
           </a>
         </div>
       </div>
-      <div className="hidden md:display sticky top-0 md:flex justify-between items-center  text-indigo-700 bg-indigo-200 border border-indigo-700 rounded-sm backdrop-blur-md px-8 p-4">
+      <div className="hidden md:display sticky z-50 top-0 md:flex justify-between items-center  text-indigo-700 bg-indigo-200/70 border border-indigo-700 rounded-sm backdrop-blur-md px-8 p-4">
         <div>St. Mary's Assumption Church</div>
         <div>
           <a href="#how-to-reach">
