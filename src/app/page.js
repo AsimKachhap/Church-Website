@@ -16,7 +16,7 @@ export default function Home() {
           />
         </div>
 
-        <div className="hero-section hidden h-screen md:display md:flex justify-center items-center ">
+        <div className="hero-section hidden h-screen md:display md:flex justify-center items-center  ">
           <div className="relative w-1/2 h-full bg-red-500">
             <Image
               src={churchImage}
@@ -28,14 +28,23 @@ export default function Home() {
           <div className=" w-1/2 flex flex-col items-center justify-center p-8">
             <h2>About the Church</h2>
             <p>
-              The Seeds of divine vision were sown in 1982, when Sanjo CMI
-              Bhawan was established at Patel Nagar, Ghaziabad. The Mariam Nagar
-              Complex, as we know it today, was born from the sacred vision of
-              Rev. Fr. Gerald Padinjarepeedika CMI. Guided by God's providence,
-              this dream began to take form in 1989 when a new campus was
-              established in Mariam Nagar.
+              St. Mary’s Assumption Church, Mariam Nagar, Ghaziabad, is a
+              vibrant parish under the Diocese of Meerut, served by the
+              Carmelites of Mary Immaculate (CMI) Fathers.
             </p>
-            <p>ear</p>
+            <p>
+              Established in 2007, the church continues the rich legacy of faith
+              that began with the CMI mission at Patel Nagar in 1982.
+            </p>
+            <p>
+              Home to over 200 families, it unites people from diverse
+              communities in worship, service, and Catholic education.
+            </p>
+            <p>
+              A center of spiritual growth, it stands beside St. Joseph’s
+              Academy, fostering faith and learning in the heart of Mariam
+              Nagar.
+            </p>
           </div>
         </div>
       </div>
