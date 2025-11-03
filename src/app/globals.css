@@ -1,14 +1,14 @@
-@import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+@import "tailwindcss";
 
 @theme {
-/**THEME FONTS**/
---font-display: "Almendra", sans-serif  /* For Church Name */
---font-body: "Manrope", sans-serif
+  /**THEME FONTS**/
+  --font-display: "Almendra", sans-serif; /* For Church Name */
+  --font-body: "Manrope", sans-serif;
 
   /**THEME COLORS**/
-  --color-display: #ffc322;  /* For Church Name */
+  --color-displayColor: #ffc322; /* For Church Name */
   --color-primary: #1e3a8a;
   --color-background: #fafafa;
   --color-accent: #ffd230;

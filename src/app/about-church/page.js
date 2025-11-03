@@ -4,7 +4,7 @@ const AboutChurch = () => {
   return (
     <div className="  flex flex-col justify-center items-center px-64 pt-8 ">
       <h1 className="text-blue-700 text-4xl font-bold">
-        The History of St. Mary's Assumption Church
+        The History of St. Mary&apos;s Assumption Church
       </h1>
       <h2 className="text-amber-500 text-2xl uppercase font-medium">
         Mariam Nagar Ghaziabad
@@ -13,24 +13,24 @@ const AboutChurch = () => {
         The seeds of divine vision were sown in 1982, whe Sanjo CMI Bhavan was
         established at Patel Nagar, Ghaziabad. The Mariam Nagar Complex, as we
         know today, was born from the sacred vision of Rev. Fr. Gerald
-        Pandinjarepeedika CMI. Guided by God's providence, this dremn began to
-        take form in 1989 when a new campus was established and blessed in
+        Pandinjarepeedika CMI. Guided by God&apos;s providence, this dremn began
+        to take form in 1989 when a new campus was established and blessed in
         Mariam Nagar.
       </p>
       <p>
         Years earlier in 1979, Fr. Amadeus OFM had founded a school under the
         management of Sacred Heart Church, Patel Nagar. Responding to divine
         call, the CMI Fathers were invited to take over the school, which was
-        renamed St. Joseph's Academy in the year 1982-83. The St. Joseph's
-        Academy was relocated to Mariam Nagar on July 16, 1989, marking a new
-        chapter in the mission of Catholic educationin the region.
+        renamed St. Joseph&apos;s Academy in the year 1982-83. The St.
+        Joseph&apos;s Academy was relocated to Mariam Nagar on July 16, 1989,
+        marking a new chapter in the mission of Catholic educationin the region.
       </p>
       <p>
-        In the fullness of God's time, St. Mary's Assumption Church was
+        In the fullness of Gods time, St. Mary&apos;s Assumption Church was
         officially erected as Parish on 15th August 2007, a date filled with
         Marian significance. The declaration was made by His Excellency Bishop
         Patric Nair of the Meerut Diocese, and the pastoral care of the Parish
-        was entrusted to the Carmelities of Mary Immaculate, St. John's
+        was entrusted to the Carmelities of Mary Immaculate, St. John&apos;s
         Provience, Bijnor.
       </p>
       <p>

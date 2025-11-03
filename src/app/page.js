@@ -4,7 +4,7 @@ import churchImage from "../assets/Church.jpg";
 
 export default function Home() {
   return (
-    <div className=" bg-white">
+    <div className=" bg-background text-text-primary">
       <div className="">
         <Navbar />
         <div className="hero-section-mobile md:hidden">
@@ -17,7 +17,7 @@ export default function Home() {
         </div>
 
         <div className="hero-section hidden h-screen md:display md:flex justify-center items-center  ">
-          <div className="relative w-1/2 h-full bg-red-500">
+          <div className="relative w-1/2 h-full ">
             <Image
               src={churchImage}
               alt="Picture of St. Mary's Assumption Church"
